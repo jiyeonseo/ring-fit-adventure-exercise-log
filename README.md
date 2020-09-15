@@ -12,3 +12,4 @@
 | 2020-09-09 | 20 분 13초 | 78.25kcal | 2.12km | ![](https://pbs.twimg.com/media/EhbXLYsUwAAO_Tl.jpg) |
 | 2020-09-10 | 17 분 12초 | 63.87kcal | 0.84km | ![](https://pbs.twimg.com/media/EhgedaQVgAAMNzk.jpg) |
 | 2020-09-11 | 8분 25 초 | 21.16kcal |  | ![](https://pbs.twimg.com/media/Ehl93E_UYAEioUE.jpg) |
+| 2020-09-12 | 18분44초 | 51.22kcal | 0.99km | ![](https://pbs.twimg.com/media/EhrqZs_VkAE2_oo.jpg) |
