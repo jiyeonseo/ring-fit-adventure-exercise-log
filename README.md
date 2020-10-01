@@ -25,3 +25,4 @@
 | 2020-09-27 | 26분45초 | 106.31kcal | 1.40km | ![](https://pbs.twimg.com/media/Ei4-k2DU0AIW8gf.jpg) |
 | 2020-09-28 | 28분 53 초 | 108.52kcal | 0.69km | ![](https://pbs.twimg.com/media/Ei9VaA8VkAAisgC.jpg) |
 | 2020-09-29 | 29분43초 | 103.16kcal | 0.61km | ![](https://pbs.twimg.com/media/EjCZNoLVgAEE6rY.jpg) |
+| 2020-09-30 | 19분 41초 | 68.23 Cal | 0.46 km | ![](https://pbs.twimg.com/media/EjH_To_U0AAGNRG.jpg) |
