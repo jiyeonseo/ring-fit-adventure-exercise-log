@@ -28,3 +28,4 @@
 | 2020-09-30 | 19분 41초 | 68.23 Cal | 0.46 km | ![](https://pbs.twimg.com/media/EjH_To_U0AAGNRG.jpg) |
 | 2020-10-02 | 37분 15초 | 130.09 Cal | 0.59 km | ![](https://pbs.twimg.com/media/EjSMGiNU4AExC26.jpg) |
 | 2020-10-03 | 34분 3 초 | 118.08 Cal | 0.88 km | ![](https://pbs.twimg.com/media/EjXU4gwU8AE8u5J.jpg) |
+| 2020-10-04 | 30분 45초 | 112.37cal | 0.92 km | ![](https://pbs.twimg.com/media/EjclhV0VkAA6u_b.jpg) |
