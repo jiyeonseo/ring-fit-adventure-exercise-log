@@ -40,3 +40,4 @@
 | 2020-10-14 | 39 분 20 초 | 138.09kcal | 1.18km | ![](https://pbs.twimg.com/media/EkPst9sU0AAPq1u.jpg) |
 | 2020-10-19 | 31 분 15초 | 121.99kcal | 1.34km | ![](https://pbs.twimg.com/media/EkpS2VpVgAAXnWh.jpg) |
 | 2020-10-20 | 18분 11 초 | 66.98kcal | 0.45km | ![](https://pbs.twimg.com/media/EkueHC8VoAApKqL.jpg) |
+| 2020-10-21 | 32분 19초 | 130.07kcal | 1.25km | ![](https://pbs.twimg.com/media/Ekzjl2GUcAAd1_z.jpg) |
