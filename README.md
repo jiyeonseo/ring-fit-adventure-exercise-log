@@ -47,3 +47,4 @@
 | 2020-10-29 | 31 분 25초 | 122.08kcal | 1.13km | ![](https://pbs.twimg.com/media/Elc_EapVgAIBIZX.jpg) |
 | 2020-10-30 | 31 분 19초 | 116.47kcal | 0.98km | ![](https://pbs.twimg.com/media/EliNmA0U8AAaHxt.jpg) |
 | 2020-11-01 | 32분 26초 | 109.13kcal | 1.56km | ![](https://pbs.twimg.com/media/EltMR13VcAArjd3.jpg) |
+| 2020-11-02 | 36분 39초 | 125.53kcal | 1.23km | ![](https://pbs.twimg.com/media/ElxkTUVVMAAp8pu.jpg) |
