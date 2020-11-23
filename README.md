@@ -64,3 +64,4 @@
 | 2020-11-20 | 27 분 21 초 | 93.38kcal | 0.99km | ![](https://pbs.twimg.com/media/EnObKDDUUAESK0u.jpg) |
 | 2020-11-21 | 30 분 27 초 | 117.60kcal | 1.03km | ![](https://pbs.twimg.com/media/EnTzZjdVEAAsR0c.jpg) |
 | 2020-11-22 | 46 분 10 초 | 150.61kcal | 1.34km | ![](https://pbs.twimg.com/media/EnZLGtlVEAA1fRk.jpg) |
+| 2020-11-23 | 10 분 28 초 | 33.84kcal | O.10km | ![](https://pbs.twimg.com/media/End4pv2VEAM7JLh.jpg) |
