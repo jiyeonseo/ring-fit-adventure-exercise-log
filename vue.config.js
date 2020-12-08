@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/chart-gh-page/',
+    publicPath: '/ring-fit-adventure-exercise-log/',
     outputDir: 'docs'
 }
