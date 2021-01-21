@@ -107,3 +107,4 @@
 | 2021-01-13 | 32분36초 | 108.12kcal | 0.66km | ![](https://pbs.twimg.com/media/ErkfIdMVoAAbnEe.jpg) |
 | 2021-01-18 | 19분19초 | 100.82kcal | 1.69km | ![](https://pbs.twimg.com/media/EsBF8ceXEAIfzid.jpg) |
 | 2021-01-19 | 22분24초 | 94.17kcal | 0.41km | ![](https://pbs.twimg.com/media/EsDfeGRVcAcINXi.jpg) |
+| 2021-01-21 | 27분15초 | 123.09kcal | 0.50km | ![](https://pbs.twimg.com/media/EsPNz-AVcAI9lej.jpg) |
