@@ -127,3 +127,4 @@
 | 2021-02-09 | 31분11초 | 124.74kcal | 0.39km | ![](https://pbs.twimg.com/media/EtvdZShUUAYvDno.jpg) |
 | 2021-02-11 | 15분48초 | 62. 45kcal | 0.41km | ![](https://pbs.twimg.com/media/Et6N1n2VEAAd294.jpg) |
 | 2021-02-12 | 16분40초 | 51.19kcal | 0.70km | ![](https://pbs.twimg.com/media/Et-6Bs_UYAI2R_q.jpg) |
+| 2021-02-14 | 12분5초 | 46.12kcal | 0.46km | ![](https://pbs.twimg.com/media/EuK0mrHUUAAsRKq.jpg) |
