@@ -137,3 +137,4 @@
 | 2021-02-22 | 21분30초 | 102.11kcal | 0.92km | ![](https://pbs.twimg.com/media/EuyVaLZUUAAFQ72.jpg) |
 | 2021-02-23 | 23분55초 | 96.80kcal | 0.79km | ![](https://pbs.twimg.com/media/Eu3jaxTVgAQoprq.jpg) |
 | 2021-02-27 | 29분6초 | 106.07kcal | 0.18km | ![](https://pbs.twimg.com/media/EvMjGgoUUAMS_aW.jpg) |
+| 2021-02-28 | 28분28초 | 113.19kcal | 1.23km | ![](https://pbs.twimg.com/media/EvRtDCbVEAEoGXI.jpg) |
