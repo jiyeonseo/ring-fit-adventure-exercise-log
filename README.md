@@ -174,3 +174,4 @@
 | 2021-04-10 | 24분55초 | 111.08kcal | 0.49km | ![](https://pbs.twimg.com/media/EykwTvGVEAIHgqv.jpg) |
 | 2021-04-11 | 24분55초 | 111.08kcal | 0.49km | ![](https://pbs.twimg.com/media/EyqFnY3VIAMXZfa.jpg) |
 | 2021-04-12 | 29분5초 | 123.06kcal | 1.84km | ![](https://pbs.twimg.com/media/Eyuud61U8AEqnZp.jpg) |
+| 2021-04-13 | 24분24초 | 107.08kcal | 0.43km | ![](https://pbs.twimg.com/media/Eyz89nwVcAAySUU.jpg) |
