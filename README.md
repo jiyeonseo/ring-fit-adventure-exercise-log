@@ -189,3 +189,4 @@
 | 2021-05-11 | 20분36초 | 101.08kcal | 0.57km | ![](https://pbs.twimg.com/media/E1D__JaVIAIY_nT.jpg) |
 | 2021-05-12 | 23분9초 | 109.09kcal | 0.97km | ![](https://pbs.twimg.com/media/E1JKYq1VgAEwkEz.jpg) |
 | 2021-05-14 | 20분58초 | 102.08kcal | 1.07km | ![](https://pbs.twimg.com/media/E1Td5b0VEAEFUhO.jpg) |
+| 2021-05-15 | 28분18초 | 127.29kcal | 0.50km | ![](https://pbs.twimg.com/media/E1ZARgzVoAMM3dM.jpg) |
