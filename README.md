@@ -221,3 +221,4 @@
 | 2021-07-22 | 14분0초 | 47.68kcal | 0.60km | ![](https://pbs.twimg.com/media/E621jkRVEAM4tAR.jpg) |
 | 2021-07-23 | 30분10초 | 106.38kcal | 0.05km | ![](https://pbs.twimg.com/media/E68Cs4pVoAUVaUf.jpg) |
 | 2021-07-25 | 14분1초 | 54.22kcal | 0.92km | ![](https://pbs.twimg.com/media/E7Hg5nqVIAERNgs.jpg) |
+| 2021-07-26 | 23분18초 | 81.08kcal | 1.23km | ![](https://pbs.twimg.com/media/E7LZSGDUcAE-4Xa.jpg) |
