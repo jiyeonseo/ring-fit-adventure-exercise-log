@@ -234,3 +234,4 @@
 | 2021-08-15 | 24분53초 | 106.74kcal | 0.43km | ![](https://pbs.twimg.com/media/E8y3A4qUUAUDEwm.jpg) |
 | 2021-08-16 | 20분25초 | 91.35kcal | 0.23km | ![](https://pbs.twimg.com/media/E84ExgnVgAMAokM.jpg) |
 | 2021-08-18 | 31분33초 | 97. 33kcal | 0.35km | ![](https://pbs.twimg.com/media/E9B4UrKVkAQo8RW.jpg) |
+| 2021-08-23 | 20분55초 | 83.93kcal | 1.06km | ![](https://pbs.twimg.com/media/E9bljnOVEAQlIsO.jpg) |
