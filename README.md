@@ -250,3 +250,4 @@
 | 2021-12-01 | 15분15초 | 103.12kcal | 0.96km | ![](https://pbs.twimg.com/media/FFestTnVgAEpaUy.jpg) |
 | 2021-12-03 | 18분57초 | 119.23kcal | 0.99km | ![](https://pbs.twimg.com/media/FFo31jYVgAIPS8V.jpg) |
 | 2021-12-04 | 17분30초 | 100.56kcal | 1.07km | ![](https://pbs.twimg.com/media/FFwzvw8UcAEA_kY.jpg) |
+| 2021-12-05 | 19분23초 | 124.83kcal | 0.54km | ![](https://pbs.twimg.com/media/FFzhl-SVUAcRTQC.jpg) |
