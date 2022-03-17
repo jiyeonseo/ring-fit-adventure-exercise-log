@@ -260,3 +260,4 @@
 | 2022-01-07 | 21분45초 | 129.74kcal | 0.44km | ![](https://pbs.twimg.com/media/FIdRMaWUUAA2kcL.jpg) |
 | 2022-03-12 | 8분51초 | 62.15kcal | 0.42km | ![](https://pbs.twimg.com/media/FNnafAnUcAQiSC6.jpg) |
 | 2022-03-16 | 20분16초 | 125.06kcal | 0.42km | ![](https://pbs.twimg.com/media/FN7bkvpVcAYBjZZ.jpg) |
+| 2022-03-17 | 10분19초 | 67.71kcal | 0.97km | ![](https://pbs.twimg.com/media/FOAqfPgUYAEbPHR.jpg) |
